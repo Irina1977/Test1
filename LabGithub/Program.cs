@@ -10,7 +10,7 @@ namespace LabGithub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Знакомство с GitHub");
+            Console.WriteLine("Привет, GitHub");
             Console.WriteLine("Проверка изменений на сервере");
             Console.WriteLine("Проверка командной работы");
         }
